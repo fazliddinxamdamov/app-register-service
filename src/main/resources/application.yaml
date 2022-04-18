@@ -10,5 +10,5 @@ eureka:
   .instance:
     hostname: localhost
   .dashboard:
-    .path: /dashboart
+    .path: /dashboard
 
