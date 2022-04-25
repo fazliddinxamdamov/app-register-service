@@ -11,4 +11,3 @@ eureka:
     hostname: localhost
   .dashboard:
     .path: /dashboard
-
